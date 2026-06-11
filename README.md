@@ -8,6 +8,12 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 
 We publish regular updates of this repo in the [Altern Newsletter](http://newsletter.altern.ai). [Subscribe](http://newsletter.altern.ai) for the latest AI news and discover the best AI tools.
 
+# NeuroNest AI Development Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an intelligent AI development tool designed to make coding workflows faster, cleaner, and more efficient. It supports developers with code generation, debugging, testing, project planning, and automation through AI-powered agents, helping teams improve productivity and build software with greater confidence.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
 ## Contents
 
 - [🌟 Editor's Choice](#editors-choice)
